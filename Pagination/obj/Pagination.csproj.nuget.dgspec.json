@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\legen\\Pictures\\Pagination\\Pagination\\Pagination.csproj": {}
+    "C:\\Users\\legen\\Desktop\\Pagination\\Pagination\\Pagination.csproj": {}
   },
   "projects": {
-    "C:\\Users\\legen\\Pictures\\Pagination\\Pagination\\Pagination.csproj": {
+    "C:\\Users\\legen\\Desktop\\Pagination\\Pagination\\Pagination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\legen\\Pictures\\Pagination\\Pagination\\Pagination.csproj",
+        "projectUniqueName": "C:\\Users\\legen\\Desktop\\Pagination\\Pagination\\Pagination.csproj",
         "projectName": "Pagination",
-        "projectPath": "C:\\Users\\legen\\Pictures\\Pagination\\Pagination\\Pagination.csproj",
+        "projectPath": "C:\\Users\\legen\\Desktop\\Pagination\\Pagination\\Pagination.csproj",
         "packagesPath": "C:\\Users\\legen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\legen\\Pictures\\Pagination\\Pagination\\obj\\",
+        "outputPath": "C:\\Users\\legen\\Desktop\\Pagination\\Pagination\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
